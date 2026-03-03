@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Lucas</h1>
+<h3 align="center">Sou um estudante de ciencias da computação na Ucb e pretendo me especializar em desenvolvimento software </h3>
 
-<!--
-**LucasIZ25/Lucasiz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor de front-end e back-end  
+📚 Sempre aprendendo novas Linguagens  
+🎯 Objetivo: Evoluir constantemente como desenvolvedor  
+🌎 Brasil  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,github" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasiz25 &show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25 &layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Lucas_Allvsz)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lucas.izaias1906@gmail.com)
+
+---
+
+
+
+<div align="center">
+  
+💡 *"Evoluindo constantemente e sempre tentando ser melhor que ontem!"*
+
+</div>
+
+
