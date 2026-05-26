@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasiz25 &show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="html,css,java,c,js,git"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25 &layout=compact&theme=tokyonight"/>
 
 </div>
