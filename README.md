@@ -24,15 +24,7 @@ Sou estudante de Ciência da Computação na UCB e pretendo me especializar em D
 </div>
 
 ---
-## 🏆 Troféus do GitHub
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lucasiz25&theme=tokyonight&no-frame=true&margin-w=10)
-
-</div>
-
----
 
 ## 🌎 Onde me encontrar
 
