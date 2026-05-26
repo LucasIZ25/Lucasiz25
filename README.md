@@ -1,12 +1,15 @@
-<h1 align="center">Olá, eu sou Lucas</h1>
-<h3 align="center">Sou um estudante de ciencias da computação na Ucb e pretendo me especializar em desenvolvimento software </h3>
+<h1 align="center">Olá, eu sou Lucas 👋</h1>
+
+<h3 align="center">
+Sou estudante de Ciência da Computação na UCB e pretendo me especializar em Desenvolvimento de Software
+</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor de front-end e back-end  
-📚 Sempre aprendendo novas Linguagens  
+💻 Desenvolvedor Front-end e Back-end  
+📚 Sempre aprendendo novas linguagens  
 🎯 Objetivo: Evoluir constantemente como desenvolvedor  
 🌎 Brasil  
 
@@ -16,38 +19,43 @@
 
 <div align="center">
 
-<img height="180em" src="html,css,java,c,js,git"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25 &layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,git,github,vscode,mysql" />
 
 </div>
 
 ---
 
----
-
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasiz25 &show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25 &layout=compact&theme=tokyonight"/>
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasiz25&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🌎 Onde me encontrar
 
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_allvzs?igsh=MW50MmpydmV3bXpjag==)
+<a href="https://www.instagram.com/lucas_allvzs">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lucas.izaias1906@gmail.com)
+<a href="mailto:Lucas.izaias1906@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
-
-
 
 <div align="center">
   
 💡 *"Evoluindo constantemente e sempre tentando ser melhor que ontem!"*
 
 </div>
-
 
