@@ -24,15 +24,11 @@ Sou estudante de Ciência da Computação na UCB e pretendo me especializar em D
 </div>
 
 ---
-## 📊 Estatísticas do GitHub
+## 🏆 Troféus do GitHub
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Lucasiz25&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasiz25&layout=compact&theme=tokyonight"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lucasiz25&theme=tokyonight&no-frame=true&margin-w=10)
 
 </div>
 
